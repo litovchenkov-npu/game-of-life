@@ -1,0 +1,7 @@
+﻿  grid.cpp
+  main.cpp
+  window.cpp
+C:\Users\litov\source\game of life\window.cpp(63,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\litov\source\game of life\window.cpp(63,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода...
+  game of life.vcxproj -> C:\Users\litov\source\game of life\x64\Debug\game of life.exe
