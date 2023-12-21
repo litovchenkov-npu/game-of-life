@@ -1,3 +1,4 @@
+#pragma comment(linker, "/SUBSYSTEM:windows /ENTRY:mainCRTStartup")
 #include "grid.h"
 #include "window.h"
 #include "settings.h"
